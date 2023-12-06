@@ -1,10 +1,12 @@
 // import styles from './RegisterForm.module.css'
 // import { RegisterInfo } from '../../types';
 
+
 // interface Props {
 //     onSubmit: (values: RegisterInfo) => void
 // }
 // const Register = ({ onSubmit }: Props) => {
+
 
 const Register = () => {
 
